@@ -1,6 +1,6 @@
 # Catálogo de Guantes de Soldar en México
 
-Documento integrado con proveedores, enlaces de descarga de catálogos y especificaciones técnicas de guantes de soldar de **Infra**, **Juba WELDY** y **voestalpine Böhler Welding**.
+Documento integrado con proveedores, enlaces de descarga de catálogos, especificaciones técnicas y análisis de ventajas y desventajas de guantes de soldar de **Infra**, **Juba WELDY** y **voestalpine Böhler Welding**.
 
 ## Proveedores y enlaces de catálogo
 
@@ -29,6 +29,36 @@ Documento integrado con proveedores, enlaces de descarga de catálogos y especif
 - Modelos:
   - **MIG/MAG Heavy-Duty (Tipo A)**: Serraje vacuno 1.3 mm, EN388 4134B, EN407 413x3.
   - **TIG Classic (Tipo B)**: Piel oveja 1.1 mm, EN388 2121X, EN407 41xx4.
+
+## Ventajas y desventajas por modelo
+
+### Infra 5273 (MIG/Electrodo)
+- **Ventajas**: Aguanta muy bien el calor y las salpicaduras gracias a la carnaza gruesa y el hilo Kevlar; barato y fácil de conseguir en México.
+- **Desventajas**: Baja destreza, se siente rígido; no sirve para trabajo fino.
+
+### Infra 5284 (TIG)
+- **Ventajas**: Piel suave que gana en sensibilidad y tacto para TIG.
+- **Desventajas**: Se desgasta más rápido y protege menos contra calor fuerte.
+
+### Juba 408PLUS (Tipo A, MIG)
+- **Ventajas**: El más robusto de los tres; serraje de 1.1-1.2 mm, aguanta contacto hasta 350°C y trae forro de algodón, por lo que dura más en uso pesado.
+- **Desventajas**: Más grueso y menos preciso.
+
+### Juba 408RFTIG (Tipo B, TIG)
+- **Ventajas**: El más fino y táctil, nivel de destreza 4, ideal para TIG.
+- **Desventajas**: Piel de cabra de 0.7 mm que se degrada antes con salpicaduras constantes.
+
+### Böhler MIG/MAG Heavy-Duty (Tipo A)
+- **Ventajas**: Mejor aislamiento y resistencia al corte de la gama; serraje vacuno 1.3 mm.
+- **Desventajas**: Precio más alto; en México se consigue sobre todo por distribuidores.
+
+### Böhler TIG Classic (Tipo B)
+- **Ventajas**: Excelente sensación táctil; piel oveja 1.1 mm.
+- **Desventajas**: Precio más alto; disponibilidad vía distribuidores.
+
+## Recomendación rápida
+- Si soldas mucho MIG pesado: **Böhler Heavy-Duty** o **Juba 408PLUS**.
+- Si es TIG de precisión: **Juba 408RFTIG** o **Böhler TIG Classic**.
 
 ## Notas
 - Todos cumplen EN 12477 (Tipo A = más protección, Tipo B = más destreza).
